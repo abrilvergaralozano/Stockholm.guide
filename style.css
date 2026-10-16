@@ -1,0 +1,23 @@
+body {
+  background-color: pink;
+} body {
+  font-family: Georgia, serif;
+  font-size: 1.125rem;
+  line-height: 1.6;
+}
+
+h1, h2 {
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  font-size: 2.5rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+}img {
+  max-width: 50%;
+  height: auto;
+  display: ruby-base-container;
+}
